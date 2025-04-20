@@ -1,15 +1,16 @@
 ## Notes
 tips
 - topic: question-centric, ask good questions before learning
-- content: to be revisited, code along, not too long to read (< 1k words)
+- **carry moderate amount of insight that you can never get from llm** 
+- content: to be revisited, code along, not too long to read (1k - 2k words)
 - https://research.google/people/jeff/
 
 ## agenda
+- softmax第二部分也写一起
 - Tensor Derivatives in Backprop
-- torch internals: einsum [blog](https://rockt.ai/2018/04/30/einsum)
+- torch: einsum [blog](https://rockt.ai/2018/04/30/einsum)
 - Attention: in search of efficient and performant sequence2sequence encoder
 ## To schedule
-
 - DL series
   - transformer
   - MoE, [talk](https://www.youtube.com/watch?v=v1zlvT2-4_Y)
