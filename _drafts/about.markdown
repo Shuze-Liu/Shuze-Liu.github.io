@@ -17,3 +17,5 @@ You can find the source code for Jekyll at GitHub:
 
 [jekyll-organization]: https://github.com/jekyll
 Put this to home page
+
+bundle exec jekyll serve

@@ -5,11 +5,9 @@ tips
 - https://research.google/people/jeff/
 
 ## agenda
-- 13.04: Tensor Derivatives in Backprop
-- 13.04: torch internals: einsum [blog](https://rockt.ai/2018/04/30/einsum)
-## finished work
-- 12.04: Attention: in search of efficient and performant sequence2sequence encoder
-- 12.04: torch internals: stride-based operations
+- Tensor Derivatives in Backprop
+- torch internals: einsum [blog](https://rockt.ai/2018/04/30/einsum)
+- Attention: in search of efficient and performant sequence2sequence encoder
 ## To schedule
 
 - DL series
